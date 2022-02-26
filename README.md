@@ -2,16 +2,7 @@
 Making a rocket ship with python turtle
 
 
-######################################################
-# Project: Project 1
-# Student Name: Shodiya, Samuel
-# UIN: 669794692
-# URL: https://replit.com/@UICCS111HayesSpring2022/Project-1-SamuelShodiya#main.py
 
-# either list the students who provided help or remove the comment lines below
-# For this project, I received help from the following members of CS111.
-# Student1name, netID 12345678: help with background loop
-# Student2name, netID 87654321: help with turtle heading and function parameters
  
 ######################################################
 # <imports>
